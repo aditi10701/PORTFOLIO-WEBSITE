@@ -5,8 +5,7 @@ import employeeManagement from "../assets/portfolio/employeeManagement.png";
 import codeBook from "../assets/portfolio/codeBook.png";
 import algorithmVisualizer from "../assets/portfolio/6.png";
 import quizApp from "../assets/portfolio/QUIZ.png"
-import reactSmooth from "../assets/portfolio/reactSmooth.jpg";
-import reactWeather from "../assets/portfolio/reactWeather.jpg";
+
 
 const Portfolio = () => {
   const portfolios = [
