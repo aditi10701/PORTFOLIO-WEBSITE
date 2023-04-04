@@ -5,6 +5,8 @@ import employeeManagement from "../assets/portfolio/employeeManagement.png";
 import codeBook from "../assets/portfolio/codeBook.png";
 import algorithmVisualizer from "../assets/portfolio/6.png";
 import quizApp from "../assets/portfolio/QUIZ.png"
+import sharify from "../assests/portfolio/SHARIFY.png"
+import bookingist from "../assets/portfolio/BOOKINGIST.png"
 
 
 const Portfolio = () => {
@@ -23,15 +25,15 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: codeBook,
-      link:"https://cozy-baklava-f8dd82.netlify.app",
-      code:"https://github.com/aditi10701/code-book",
+      src: bookingist,
+      link:"https://bookingist.onrender.com/",
+      code:"https://github.com/aditi10701/TicketBooking",
     },
     { 
       id: 3,
-      src: employeeManagement,
-      link:"https://sensational-gingersnap-1b07d9.netlify.app",
-      code:"https://github.com/aditi10701/EmployeeManagementSystem",  
+      src: sharify,
+      link:"https://candid-chaja-dd7b83.netlify.app/",
+      code:"https://github.com/aditi10701/FileSharing",  
       },
     {
       id: 5,
