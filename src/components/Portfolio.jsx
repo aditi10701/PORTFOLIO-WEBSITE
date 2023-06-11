@@ -4,9 +4,9 @@ import imdb from "../assets/portfolio/imdb.png";
 import employeeManagement from "../assets/portfolio/employeeManagement.png";
 import codeBook from "../assets/portfolio/codeBook.png";
 import algorithmVisualizer from "../assets/portfolio/6.png";
-import quizApp from "../assets/portfolio/QUIZ.png"
-import sharify from "../assests/portfolio/SHARIFY.png"
-import bookingist from "../assets/portfolio/BOOKINGIST.png"
+import quizApp from "../assets/portfolio/QUIZ.png";
+import sharify from "../assets/SHARIFY.png";
+import bookingist from "../assets/BOOKINGIST.png"
 
 
 const Portfolio = () => {
